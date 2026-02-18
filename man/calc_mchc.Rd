@@ -16,7 +16,7 @@ Numeric value representing the MCHC in grams per deciliter (g/dL).
 }
 \description{
 Calculates the MCHC based on hemoglobin concentration and hematocrit.
-CHCM measures the average concentration of hemoglobin in red blood cells.
+MCHC measures the average concentration of hemoglobin in red blood cells.
 }
 \examples{
 calc_mchc(15, 40)

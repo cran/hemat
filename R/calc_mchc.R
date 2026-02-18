@@ -1,7 +1,7 @@
 #' Calculate Mean Corpuscular Hemoglobin Concentration (MCHC)
 #'
 #' Calculates the MCHC based on hemoglobin concentration and hematocrit.
-#' CHCM measures the average concentration of hemoglobin in red blood cells.
+#' MCHC measures the average concentration of hemoglobin in red blood cells.
 #' @param hb Numeric value representing the hemoglobin concentration in g/dL.
 #' @param ht Numeric value representing the hematocrit in percentage.
 #' @returns Numeric value representing the MCHC in grams per deciliter (g/dL).
